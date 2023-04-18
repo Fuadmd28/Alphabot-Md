@@ -21,7 +21,38 @@ global.APIKeys = {
    'https://api.zeeoneofc.my.id': 'rNxPlEMuNC8w9eb', // 👉 login https://api.zeeoneofc.my.id to get apikey
 }
 global.sewabotnya = `
-edit sewabot di file settings.js line 24
+
+
+『 OPEN SEWA BOT WHATSAPP 』
+
+*_-> Rp 2.000 = 5 Hari_*
+*_-> Rp 5.000 = 12 Hari_*
+*_-> Rp 10.000 = 24 Hari_*
+*_-> Rp 15.000 = 36 Hari_*
+*_-> Rp 20.000 = 48 Hari_*
+*_-> Rp 25.000 = PERMANEN_*
+*_-> Rp 10,000 PREMIUM = 7 Hari_*
+
+
+『 JADI BOT WHATSAPP 』
+
+*_-> Rp 5,000 = 8 Hari_*
+*_-> Rp 10,000 = 15 Hari_*
+*_-> Rp 15,000 = 25 Hari_*
+*_-> Rp 20,000 = 35 Hari_*
+*_-> Rp 50,000 = Permanen_*
+
+_-> Fitur Banyak_
+_-> Respon cepat_
+_-> On 24 jam_
+_-> Dengan cara di scan saja_
+
+_Payment_
+✅DANA - OVO - GOPAY - PULSA
+
+_Jika berminat silahkan hubungi saya_
+wa.me/628989513496
+
 `
 // setting 
 global.firtsChat = true //send firts message to new user
