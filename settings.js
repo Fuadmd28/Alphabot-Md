@@ -46,7 +46,7 @@ _> Bot phus kontak √_
 _> On 24 Jam di jamin √_
 _> Respon cepat √_
 
-Untuk Harga 5,000 promo April Durasi 1 bulan jika terjadi kendala uang saya akan kembalikan, 
+Untuk Harga 5,000 promo April Durasi 1 bulan untuk permanen 20,000 jika terjadi kendala uang saya akan kembalikan, 
 
 _Payment_
 ✅ DANA - GOPAY - OVO - PULSA
