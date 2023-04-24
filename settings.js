@@ -23,35 +23,38 @@ global.APIKeys = {
 global.sewabotnya = `
 
 
-『 OPEN SEWA BOT WHATSAPP 』
 
-*_-> Rp 2.000 = 5 Hari_*
-*_-> Rp 5.000 = 12 Hari_*
-*_-> Rp 10.000 = 24 Hari_*
-*_-> Rp 15.000 = 36 Hari_*
-*_-> Rp 20.000 = 48 Hari_*
-*_-> Rp 25.000 = PERMANEN_*
-*_-> Rp 10,000 PREMIUM = 7 Hari_*
+*『 OPEN SEWA BOT WHATSAPP 』*
 
+_Rp 10,000 Durasi 1 Bulan Dengan next perpanjang hanya 5,000 untuk permanen hanya 20,000 saja._
 
-『 JADI BOT WHATSAPP 』
+_FITUR TIDAK HANYA ITU SAJA MASIH ADA LAGI SEKITAR 805 FITUR YANG LAINNYA_
+___________________________________
 
-*_-> Rp 5,000 = 8 Hari_*
-*_-> Rp 10,000 = 15 Hari_*
-*_-> Rp 15,000 = 25 Hari_*
-*_-> Rp 20,000 = 35 Hari_*
-*_-> Rp 50,000 = Permanen_*
+*『 OPEN JADI BOT 』*
 
-_-> Fitur Banyak_
-_-> Respon cepat_
-_-> On 24 jam_
-_-> Dengan cara di scan saja_
+🗿bang cara jadi bot nya gimana
+🐦Ya tinggal di scan doang di wa nya, nanti dari pihak kami akan mengirim kan sebuah QR code gitu.
+🗿 seketika nomor mu akan jadi bot, ditambah bisa di sewa kan kembali ke grup seseorang.
+🗿 Bisa setting nomor owner jadi kamu bebas kendalikan bot nya.
+
+*- Contoh kami menyediakan Bot*
+_> Bot MD atau biasa √_
+_> Bot Khusus Store cocok anak jb √_
+_> Bot Biasa + Fitur Store √_
+_> Bot phus kontak √_
+_> On 24 Jam di jamin √_
+_> Respon cepat √_
+
+Untuk Harga 5,000 promo April Durasi 1 bulan jika terjadi kendala uang saya akan kembalikan, 
 
 _Payment_
-✅DANA - OVO - GOPAY - PULSA
+✅ DANA - GOPAY - OVO - PULSA
 
-_Jika berminat silahkan hubungi saya_
-wa.me/628989513496
+_Untuk lebih lanjut silahkan chat ke_
+ *wa.me/628989513496*
+ 
+https://chat.whatsapp.com/JZr68dt7KlEKiJuvEmWxoX
 
 `
 // setting 
