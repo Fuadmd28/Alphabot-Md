@@ -81,7 +81,7 @@ global.language = indonesia //change indonesia to english if you don't understan
 // Other
 // Other
 global.botname = "𝙇𝙊𝙁𝙄" //namabot kalian
-global.ownername = "Bot Whatsapp⚡" //nama kalian
+global.ownername = "𝘽𝙖𝙣𝙜 𝙁𝘿 ⚡" //nama kalian
 global.myweb = "https://s.id/𝙇𝙊𝙁𝙄" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/@𝙇𝙊𝙁𝙄" //bebas asal jan hapus
 global.myweb2 = "https://s.id/𝙇𝙊𝙁𝙄" //bebas
