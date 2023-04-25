@@ -22,40 +22,7 @@ global.APIKeys = {
 }
 global.sewabotnya = `
 
-
-
-*『 OPEN SEWA BOT WHATSAPP 』*
-
-_Rp 10,000 Durasi 1 Bulan Dengan next perpanjang hanya 5,000 untuk permanen hanya 20,000 saja._
-
-_FITUR TIDAK HANYA ITU SAJA MASIH ADA LAGI SEKITAR 805 FITUR YANG LAINNYA_
-___________________________________
-
-*『 OPEN JADI BOT 』*
-
-🗿bang cara jadi bot nya gimana
-🐦Ya tinggal di scan doang di wa nya, nanti dari pihak kami akan mengirim kan sebuah QR code gitu.
-🗿 seketika nomor mu akan jadi bot, ditambah bisa di sewa kan kembali ke grup seseorang.
-🗿 Bisa setting nomor owner jadi kamu bebas kendalikan bot nya.
-
-*- Contoh kami menyediakan Bot*
-_> Bot MD atau biasa √_
-_> Bot Khusus Store cocok anak jb √_
-_> Bot Biasa + Fitur Store √_
-_> Bot phus kontak √_
-_> On 24 Jam di jamin √_
-_> Respon cepat √_
-
-Untuk Harga 5,000 promo April Durasi 1 bulan untuk permanen 20,000 jika terjadi kendala uang saya akan kembalikan, 
-
-_Payment_
-✅ DANA - GOPAY - OVO - PULSA
-
-_Untuk lebih lanjut silahkan chat ke_
- *wa.me/628989513496*
- 
-https://chat.whatsapp.com/JZr68dt7KlEKiJuvEmWxoX
-
+Dasar om pedo semua 
 `
 // setting 
 global.firtsChat = true //send firts message to new user
@@ -80,11 +47,11 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "𝙇𝙊𝙁𝙄" //namabot kalian
-global.ownername = "𝘽𝙖𝙣𝙜 𝙁𝘿 ⚡" //nama kalian
-global.myweb = "https://s.id/𝙇𝙊𝙁𝙄" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/@𝙇𝙊𝙁𝙄" //bebas asal jan hapus
-global.myweb2 = "https://s.id/𝙇𝙊𝙁𝙄" //bebas
+global.botname = "XyorinBot" //namabot kalian
+global.ownername = "XyorinBot⚡" //nama kalian
+global.myweb = "https://s.id/XyorinBot" //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/@XyorinBot" //bebas asal jan hapus
+global.myweb2 = "https://s.id/XyorinBot" //bebas
 global.email = "fuadmd28072006@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
