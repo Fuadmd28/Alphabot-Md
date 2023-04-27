@@ -78,8 +78,8 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "Chalzz bot" //namabot kalian
-global.ownername = "Chalzz⚡" //nama kalian
+global.botname = "XyorinBot" //namabot kalian
+global.ownername = "XyorinBot" //nama kalian
 global.myweb = "https://s.id/XyorinBot" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/@XyorinBot" //bebas asal jan hapus
 global.myweb2 = "https://s.id/XyorinBot" //bebas
@@ -88,8 +88,8 @@ global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium_fitur = ["hentai", "bkp", "chatgpt"] //tambahin aja sendiri, soalnya gk semua org mau fiturnya premium jadi gw buat kyk gini aja, biar bisa custom fitur mana aja yang bakal di jadiin premium
 global.premium = ['628985954464'] //premium user
-global.owner = ["6287787384847"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6287787384847" // nomor wa kalian
+global.owner = ["628985954464"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "628985954464" // nomor wa kalian
 global.ownernomerr = "+"+ownernomer //nmr wa kalian
 global.thumbnail = "./lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./donasi.jpg" // foto donasi di folder image
