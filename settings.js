@@ -49,8 +49,8 @@ Untuk Harga 5,000 promo April Durasi 1 bulan untuk permanen 20,000 jika terjadi 
 _Payment_
 ✅ DANA - GOPAY - OVO - PULSA
 
-_Untuk lebih lanjut silahkan chat ke_
- *wa.me/628989513496*
+_Untuk lebih lanjut Silahkan chat no ini
+*wa.me/6287787384847*
  
 https://chat.whatsapp.com/JZr68dt7KlEKiJuvEmWxoX
 
