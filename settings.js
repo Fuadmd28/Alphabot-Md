@@ -50,7 +50,7 @@ _Payment_
 ✅ DANA - GOPAY - OVO - PULSA
 
 _Untuk lebih lanjut Silahkan chat no ini
-*wa.me/6287787384847*
+*wa.me/628989513496*
  
 https://chat.whatsapp.com/JZr68dt7KlEKiJuvEmWxoX
 
@@ -78,8 +78,8 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "HuTao" //namabot kalian
-global.ownername = "HuTao-Bot" //nama kalian
+global.botname = "Bot WhatsApp ✅" //namabot kalian
+global.ownername = "Bot WhatsApp ✅" //nama kalian
 global.myweb = "https://s.id/XyorinBot" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/@XyorinBot" //bebas asal jan hapus
 global.myweb2 = "https://s.id/XyorinBot" //bebas
