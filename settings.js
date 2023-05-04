@@ -57,7 +57,7 @@ https://chat.whatsapp.com/JZr68dt7KlEKiJuvEmWxoX
 `
 // setting 
 global.firtsChat = true //send firts message to new user
-global.autoread = false // auto read message
+global.autoread = true // auto read message
 global.antidelete = false // anti delete
 global.antiviewonce = false // anti view once
 global.autobio = false //auto ganti bio
@@ -78,8 +78,8 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "Bot WhatsApp ✅" //namabot kalian
-global.ownername = "Bot WhatsApp ✅" //nama kalian
+global.botname = "𝙈𝙐𝙇𝙏𝙄 𝘿𝙀𝙑𝙄𝘾𝙀 🔥" //namabot kalian
+global.ownername = "𝙈𝙐𝙇𝙏𝙄 𝘿𝙀𝙑𝙄𝘾𝙀 🔥" //nama kalian
 global.myweb = "https://s.id/XyorinBot" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/@XyorinBot" //bebas asal jan hapus
 global.myweb2 = "https://s.id/XyorinBot" //bebas
